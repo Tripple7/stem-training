@@ -13,3 +13,5 @@
 ### my lists: lists can store any data, tuples , sets
 ## Day 7 
 ### Dictionaries , accessing items , accessing using get , all keys, all values, checking if keys exist
+## Day 8
+### OOP(Object-Oriented Programming).Defining a class and its attributes . creating instances (Objects) of a classs.class methods (functions belonging to a class)Inheritance and polymorphism.method overriding.
